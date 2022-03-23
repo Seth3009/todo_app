@@ -1,0 +1,15 @@
+current directory: /home/linux20/rails_projects/todo_app/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+/home/linux20/.rbenv/versions/2.7.0/bin/ruby -I /home/linux20/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20220323-731-l1temx.rb extconf.rb
+creating Makefile
+
+current directory: /home/linux20/rails_projects/todo_app/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/linux20/rails_projects/todo_app/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/linux20/rails_projects/todo_app/vendor/cache/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220323-731-1b4qmo5/bootsnap
